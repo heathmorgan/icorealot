@@ -3,7 +3,7 @@
 int main ()
 {
    std::iostream* x = nullptr;
-   // x->flush();
+   x->flush();
 
    return 0;
 }
